@@ -1,0 +1,16 @@
+[user]
+    name = caleb-learns
+    email = caleb-learns@example.com
+[core]
+    editor = vim
+    autocrlf = input
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    ci = commit
+    lg = log --oneline --graph --decorate --all
+[pull]
+    rebase = false
+[init]
+    defaultBranch = main
